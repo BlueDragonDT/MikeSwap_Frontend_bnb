@@ -95,7 +95,7 @@ export const NFTCardButton = styled(Box)`
         background-color: #f78adf;
     }
 `
-
+//input NFT
 const NFTCardInput = styled(Box)`
     display: flex;
     justify-content: center;
